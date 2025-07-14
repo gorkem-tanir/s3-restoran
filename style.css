@@ -22,6 +22,11 @@ h1 {
   - iç boşluk değeri 10px olsun
   - yazı büyüklüğü 20px
 */
+.mainMenu {
+  text-align: center;
+  padding: 10px;
+  font-size: 20px;
+}
 
 
 /*
