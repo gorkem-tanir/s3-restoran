@@ -59,6 +59,13 @@ p {
     - üst alt dış boşluğu 0px, sol sağ dış boşluğu 10px olsun
     - satır yüksekliği 24px olsun
 */
+ul {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 10px;
+  margin-right: 10px;
+  line-height: 24px;
+}
 
 
 .container {
