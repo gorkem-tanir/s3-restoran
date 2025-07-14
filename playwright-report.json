@@ -82,12 +82,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 43,
+                      "duration": 41,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T13:14:20.496Z",
+                      "startTime": "2025-07-14T13:23:05.606Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -116,12 +116,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 16,
+                      "duration": 12,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T13:14:21.385Z",
+                      "startTime": "2025-07-14T13:23:06.498Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -155,7 +155,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T13:14:21.404Z",
+                      "startTime": "2025-07-14T13:23:06.513Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -189,7 +189,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T13:14:21.410Z",
+                      "startTime": "2025-07-14T13:23:06.520Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -218,12 +218,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 13,
+                      "duration": 16,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T13:14:21.421Z",
+                      "startTime": "2025-07-14T13:23:06.530Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -257,7 +257,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T13:14:21.439Z",
+                      "startTime": "2025-07-14T13:23:06.552Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -286,12 +286,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 11,
+                      "duration": 12,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T13:14:21.448Z",
+                      "startTime": "2025-07-14T13:23:06.561Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -325,7 +325,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T13:14:21.462Z",
+                      "startTime": "2025-07-14T13:23:06.575Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -354,12 +354,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 23,
+                      "duration": 26,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T13:14:21.474Z",
+                      "startTime": "2025-07-14T13:23:06.589Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -388,12 +388,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 4,
+                      "duration": 5,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T13:14:21.499Z",
+                      "startTime": "2025-07-14T13:23:06.617Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -427,7 +427,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T13:14:21.505Z",
+                      "startTime": "2025-07-14T13:23:06.624Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -456,12 +456,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 21,
+                      "duration": 22,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T13:14:21.533Z",
+                      "startTime": "2025-07-14T13:23:06.652Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -490,12 +490,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 18,
+                      "duration": 17,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T13:14:21.556Z",
+                      "startTime": "2025-07-14T13:23:06.677Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -510,7 +510,7 @@
             },
             {
               "title": "<p> etiketlerinin stil kontrolü",
-              "ok": false,
+              "ok": true,
               "tags": [],
               "tests": [
                 {
@@ -523,48 +523,18 @@
                     {
                       "workerIndex": 0,
                       "parallelIndex": 0,
-                      "status": "failed",
-                      "duration": 19,
-                      "error": {
-                        "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"1\u001b[7m5\u001b[27mpx\"\u001b[39m\nReceived: \u001b[31m\"1\u001b[7m6\u001b[27mpx\"\u001b[39m",
-                        "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"1\u001b[7m5\u001b[27mpx\"\u001b[39m\nReceived: \u001b[31m\"1\u001b[7m6\u001b[27mpx\"\u001b[39m\n    at C:\\Users\\ASUS\\Desktop\\javascript\\s3-restoran\\tests\\main.spec.js:125:28",
-                        "location": {
-                          "file": "C:\\Users\\ASUS\\Desktop\\javascript\\s3-restoran\\tests\\main.spec.js",
-                          "column": 28,
-                          "line": 125
-                        },
-                        "snippet": "\u001b[0m \u001b[90m 123 |\u001b[39m     \u001b[36mconst\u001b[39m p \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39m$(\u001b[32m\"p\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 124 |\u001b[39m     \u001b[36mconst\u001b[39m style \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mevaluate((el) \u001b[33m=>\u001b[39m getComputedStyle(el)\u001b[33m,\u001b[39m p)\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 125 |\u001b[39m     expect(style\u001b[33m.\u001b[39mfontSize)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"15px\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m     |\u001b[39m                            \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 126 |\u001b[39m     expect(style\u001b[33m.\u001b[39mfontFamily\u001b[33m.\u001b[39mtoLowerCase())\u001b[33m.\u001b[39mtoContain(\u001b[32m\"arial\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 127 |\u001b[39m     expect(style\u001b[33m.\u001b[39mpadding)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"10px\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 128 |\u001b[39m     expect(style\u001b[33m.\u001b[39mlineHeight)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"22.5px\"\u001b[39m)\u001b[33m;\u001b[39m \u001b[90m// 15px * 1.5\u001b[39m\u001b[0m"
-                      },
-                      "errors": [
-                        {
-                          "location": {
-                            "file": "C:\\Users\\ASUS\\Desktop\\javascript\\s3-restoran\\tests\\main.spec.js",
-                            "column": 28,
-                            "line": 125
-                          },
-                          "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"1\u001b[7m5\u001b[27mpx\"\u001b[39m\nReceived: \u001b[31m\"1\u001b[7m6\u001b[27mpx\"\u001b[39m\n\n\u001b[0m \u001b[90m 123 |\u001b[39m     \u001b[36mconst\u001b[39m p \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39m$(\u001b[32m\"p\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 124 |\u001b[39m     \u001b[36mconst\u001b[39m style \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mevaluate((el) \u001b[33m=>\u001b[39m getComputedStyle(el)\u001b[33m,\u001b[39m p)\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 125 |\u001b[39m     expect(style\u001b[33m.\u001b[39mfontSize)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"15px\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m     |\u001b[39m                            \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 126 |\u001b[39m     expect(style\u001b[33m.\u001b[39mfontFamily\u001b[33m.\u001b[39mtoLowerCase())\u001b[33m.\u001b[39mtoContain(\u001b[32m\"arial\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 127 |\u001b[39m     expect(style\u001b[33m.\u001b[39mpadding)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"10px\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 128 |\u001b[39m     expect(style\u001b[33m.\u001b[39mlineHeight)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"22.5px\"\u001b[39m)\u001b[33m;\u001b[39m \u001b[90m// 15px * 1.5\u001b[39m\u001b[0m\n\u001b[2m    at C:\\Users\\ASUS\\Desktop\\javascript\\s3-restoran\\tests\\main.spec.js:125:28\u001b[22m"
-                        }
-                      ],
+                      "status": "passed",
+                      "duration": 18,
+                      "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T13:14:21.576Z",
+                      "startTime": "2025-07-14T13:23:06.696Z",
                       "annotations": [],
-                      "attachments": [
-                        {
-                          "name": "error-context",
-                          "contentType": "text/markdown",
-                          "path": "C:\\Users\\ASUS\\Desktop\\javascript\\s3-restoran\\.test-results\\tests-main-HTML-ve-CSS-Gör-1771a-etiketlerinin-stil-kontrolü\\error-context.md"
-                        }
-                      ],
-                      "errorLocation": {
-                        "file": "C:\\Users\\ASUS\\Desktop\\javascript\\s3-restoran\\tests\\main.spec.js",
-                        "column": 28,
-                        "line": 125
-                      }
+                      "attachments": []
                     }
                   ],
-                  "status": "unexpected"
+                  "status": "expected"
                 }
               ],
               "id": "45e6f71b65db145e0a88-11806ef1b994cca70eb7",
@@ -585,10 +555,10 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 1,
+                      "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 68,
+                      "duration": 21,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"\u001b[7m1\u001b[27m0px\"\u001b[39m\nReceived: \u001b[31m\"0px\"\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"\u001b[7m1\u001b[27m0px\"\u001b[39m\nReceived: \u001b[31m\"0px\"\u001b[39m\n    at C:\\Users\\ASUS\\Desktop\\javascript\\s3-restoran\\tests\\main.spec.js:135:32",
@@ -612,7 +582,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T13:14:22.490Z",
+                      "startTime": "2025-07-14T13:23:06.718Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -649,10 +619,10 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 2,
+                      "workerIndex": 1,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 62,
+                      "duration": 65,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"\u001b[7m1\u001b[27m0px\"\u001b[39m\nReceived: \u001b[31m\"0px\"\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"\u001b[7m1\u001b[27m0px\"\u001b[39m\nReceived: \u001b[31m\"0px\"\u001b[39m\n    at C:\\Users\\ASUS\\Desktop\\javascript\\s3-restoran\\tests\\main.spec.js:142:30",
@@ -676,7 +646,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T13:14:23.643Z",
+                      "startTime": "2025-07-14T13:23:07.630Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -713,10 +683,10 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 3,
+                      "workerIndex": 2,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 64,
+                      "duration": 67,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"\u001b[7m75\u001b[27m0px\"\u001b[39m\nReceived: \u001b[31m\"\u001b[7m128\u001b[27m0px\"\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"\u001b[7m75\u001b[27m0px\"\u001b[39m\nReceived: \u001b[31m\"\u001b[7m128\u001b[27m0px\"\u001b[39m\n    at C:\\Users\\ASUS\\Desktop\\javascript\\s3-restoran\\tests\\main.spec.js:150:25",
@@ -740,7 +710,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T13:14:24.825Z",
+                      "startTime": "2025-07-14T13:23:08.772Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -771,11 +741,11 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2025-07-14T13:14:19.642Z",
-    "duration": 6025.382,
-    "expected": 13,
+    "startTime": "2025-07-14T13:23:04.734Z",
+    "duration": 4957.871,
+    "expected": 14,
     "skipped": 0,
-    "unexpected": 4,
+    "unexpected": 3,
     "flaky": 0
   }
 }

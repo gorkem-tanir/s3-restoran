@@ -38,6 +38,14 @@ h1 {
     - dış boşluğu 0px yapın
 */
 
+p {
+  font-size: 15px;
+  font-family: "Arial";
+  padding: 10px;
+  line-height: 150%;
+  margin: 0px;
+}
+
 
 /* banner classına sahip elemanların kenarlarını 10px yuvarlatın ve genişliğini 750px yapın */
 
