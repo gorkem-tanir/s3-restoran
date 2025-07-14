@@ -82,12 +82,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 46,
+                      "duration": 37,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T12:22:37.166Z",
+                      "startTime": "2025-07-14T12:28:50.369Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -121,7 +121,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T12:22:38.147Z",
+                      "startTime": "2025-07-14T12:28:51.265Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -150,12 +150,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 7,
+                      "duration": 5,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T12:22:38.163Z",
+                      "startTime": "2025-07-14T12:28:51.282Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -184,12 +184,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 19,
+                      "duration": 8,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T12:22:38.173Z",
+                      "startTime": "2025-07-14T12:28:51.289Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -204,7 +204,7 @@
             },
             {
               "title": "restoran adı uygun bir başlık etiketi içinde mi?",
-              "ok": false,
+              "ok": true,
               "tags": [],
               "tests": [
                 {
@@ -217,48 +217,18 @@
                     {
                       "workerIndex": 0,
                       "parallelIndex": 0,
-                      "status": "failed",
-                      "duration": 12,
-                      "error": {
-                        "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mnot\u001b[2m.\u001b[22mtoBeNull\u001b[2m()\u001b[22m\n\nReceived: \u001b[31mnull\u001b[39m",
-                        "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mnot\u001b[2m.\u001b[22mtoBeNull\u001b[2m()\u001b[22m\n\nReceived: \u001b[31mnull\u001b[39m\n    at C:\\Users\\ASUS\\Desktop\\javascript\\s3-restoran\\tests\\main.spec.js:63:20",
-                        "location": {
-                          "file": "C:\\Users\\ASUS\\Desktop\\javascript\\s3-restoran\\tests\\main.spec.js",
-                          "column": 20,
-                          "line": 63
-                        },
-                        "snippet": "\u001b[0m \u001b[90m 61 |\u001b[39m   test(\u001b[32m\"restoran adı uygun bir başlık etiketi içinde mi?\"\u001b[39m\u001b[33m,\u001b[39m \u001b[36masync\u001b[39m () \u001b[33m=>\u001b[39m {\n \u001b[90m 62 |\u001b[39m     \u001b[36mconst\u001b[39m h1 \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39m$(\u001b[32m\"h1\"\u001b[39m)\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 63 |\u001b[39m     expect(h1)\u001b[33m.\u001b[39mnot\u001b[33m.\u001b[39mtoBeNull()\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                    \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 64 |\u001b[39m     \u001b[36mconst\u001b[39m text \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m h1\u001b[33m.\u001b[39minnerText()\u001b[33m;\u001b[39m\n \u001b[90m 65 |\u001b[39m     expect(text\u001b[33m.\u001b[39mtoLowerCase())\u001b[33m.\u001b[39mtoContain(\u001b[32m\"nefis lezzet\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 66 |\u001b[39m   })\u001b[33m;\u001b[39m\u001b[0m"
-                      },
-                      "errors": [
-                        {
-                          "location": {
-                            "file": "C:\\Users\\ASUS\\Desktop\\javascript\\s3-restoran\\tests\\main.spec.js",
-                            "column": 20,
-                            "line": 63
-                          },
-                          "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mnot\u001b[2m.\u001b[22mtoBeNull\u001b[2m()\u001b[22m\n\nReceived: \u001b[31mnull\u001b[39m\n\n\u001b[0m \u001b[90m 61 |\u001b[39m   test(\u001b[32m\"restoran adı uygun bir başlık etiketi içinde mi?\"\u001b[39m\u001b[33m,\u001b[39m \u001b[36masync\u001b[39m () \u001b[33m=>\u001b[39m {\n \u001b[90m 62 |\u001b[39m     \u001b[36mconst\u001b[39m h1 \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39m$(\u001b[32m\"h1\"\u001b[39m)\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 63 |\u001b[39m     expect(h1)\u001b[33m.\u001b[39mnot\u001b[33m.\u001b[39mtoBeNull()\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                    \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 64 |\u001b[39m     \u001b[36mconst\u001b[39m text \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m h1\u001b[33m.\u001b[39minnerText()\u001b[33m;\u001b[39m\n \u001b[90m 65 |\u001b[39m     expect(text\u001b[33m.\u001b[39mtoLowerCase())\u001b[33m.\u001b[39mtoContain(\u001b[32m\"nefis lezzet\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 66 |\u001b[39m   })\u001b[33m;\u001b[39m\u001b[0m\n\u001b[2m    at C:\\Users\\ASUS\\Desktop\\javascript\\s3-restoran\\tests\\main.spec.js:63:20\u001b[22m"
-                        }
-                      ],
+                      "status": "passed",
+                      "duration": 15,
+                      "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T12:22:38.197Z",
+                      "startTime": "2025-07-14T12:28:51.300Z",
                       "annotations": [],
-                      "attachments": [
-                        {
-                          "name": "error-context",
-                          "contentType": "text/markdown",
-                          "path": "C:\\Users\\ASUS\\Desktop\\javascript\\s3-restoran\\.test-results\\tests-main-HTML-ve-CSS-Gör-96872-r-başlık-etiketi-içinde-mi-\\error-context.md"
-                        }
-                      ],
-                      "errorLocation": {
-                        "file": "C:\\Users\\ASUS\\Desktop\\javascript\\s3-restoran\\tests\\main.spec.js",
-                        "column": 20,
-                        "line": 63
-                      }
+                      "attachments": []
                     }
                   ],
-                  "status": "unexpected"
+                  "status": "expected"
                 }
               ],
               "id": "45e6f71b65db145e0a88-3f25119beb3d024d60f5",
@@ -279,10 +249,10 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 1,
+                      "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 37,
+                      "duration": 7,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mnot\u001b[2m.\u001b[22mtoBeNull\u001b[2m()\u001b[22m\n\nReceived: \u001b[31mnull\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mnot\u001b[2m.\u001b[22mtoBeNull\u001b[2m()\u001b[22m\n\nReceived: \u001b[31mnull\u001b[39m\n    at C:\\Users\\ASUS\\Desktop\\javascript\\s3-restoran\\tests\\main.spec.js:70:21",
@@ -306,7 +276,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T12:22:39.254Z",
+                      "startTime": "2025-07-14T12:28:51.321Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -343,10 +313,10 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 2,
+                      "workerIndex": 1,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 37,
+                      "duration": 38,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m5\u001b[39m\nReceived: \u001b[31m0\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m5\u001b[39m\nReceived: \u001b[31m0\u001b[39m\n    at C:\\Users\\ASUS\\Desktop\\javascript\\s3-restoran\\tests\\main.spec.js:75:26",
@@ -370,7 +340,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T12:22:40.625Z",
+                      "startTime": "2025-07-14T12:28:52.335Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -407,10 +377,10 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 3,
+                      "workerIndex": 2,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 33,
+                      "duration": 31,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mnot\u001b[2m.\u001b[22mtoBeNull\u001b[2m()\u001b[22m\n\nReceived: \u001b[31mnull\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mnot\u001b[2m.\u001b[22mtoBeNull\u001b[2m()\u001b[22m\n\nReceived: \u001b[31mnull\u001b[39m\n    at C:\\Users\\ASUS\\Desktop\\javascript\\s3-restoran\\tests\\main.spec.js:80:21",
@@ -434,7 +404,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T12:22:41.995Z",
+                      "startTime": "2025-07-14T12:28:53.615Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -471,10 +441,10 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 4,
+                      "workerIndex": 3,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 33,
+                      "duration": 30,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mnot\u001b[2m.\u001b[22mtoBeNull\u001b[2m()\u001b[22m\n\nReceived: \u001b[31mnull\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mnot\u001b[2m.\u001b[22mtoBeNull\u001b[2m()\u001b[22m\n\nReceived: \u001b[31mnull\u001b[39m\n    at C:\\Users\\ASUS\\Desktop\\javascript\\s3-restoran\\tests\\main.spec.js:87:27",
@@ -498,7 +468,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T12:22:43.260Z",
+                      "startTime": "2025-07-14T12:28:54.831Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -535,10 +505,10 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 5,
+                      "workerIndex": 4,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 31,
+                      "duration": 28,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mnot\u001b[2m.\u001b[22mtoBeNull\u001b[2m()\u001b[22m\n\nReceived: \u001b[31mnull\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mnot\u001b[2m.\u001b[22mtoBeNull\u001b[2m()\u001b[22m\n\nReceived: \u001b[31mnull\u001b[39m\n    at C:\\Users\\ASUS\\Desktop\\javascript\\s3-restoran\\tests\\main.spec.js:93:20",
@@ -562,7 +532,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T12:22:44.507Z",
+                      "startTime": "2025-07-14T12:28:56.052Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -599,10 +569,10 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 6,
+                      "workerIndex": 5,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 69,
+                      "duration": 73,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"rgb\u001b[7m(231, 153, 71\u001b[27m)\"\u001b[39m\nReceived: \u001b[31m\"rgb\u001b[7ma(0, 0, 0, 0\u001b[27m)\"\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"rgb\u001b[7m(231, 153, 71\u001b[27m)\"\u001b[39m\nReceived: \u001b[31m\"rgb\u001b[7ma(0, 0, 0, 0\u001b[27m)\"\u001b[39m\n    at C:\\Users\\ASUS\\Desktop\\javascript\\s3-restoran\\tests\\main.spec.js:103:35",
@@ -626,7 +596,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T12:22:45.816Z",
+                      "startTime": "2025-07-14T12:28:57.231Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -663,33 +633,34 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 7,
+                      "workerIndex": 6,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 35,
+                      "duration": 71,
                       "error": {
-                        "message": "Error: page.evaluate: TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'.\n    at eval (eval at evaluate (:291:30), <anonymous>:1:7)\n    at UtilityScript.evaluate (<anonymous>:293:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)",
-                        "stack": "Error: page.evaluate: TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'.\n    at eval (eval at evaluate (:291:30), <anonymous>:1:7)\n    at UtilityScript.evaluate (<anonymous>:293:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)\n    at eval (eval at evaluate (:291:30), <anonymous>:1:7)\n    at UtilityScript.evaluate (<anonymous>:293:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)\n    at C:\\Users\\ASUS\\Desktop\\javascript\\s3-restoran\\tests\\main.spec.js:109:30",
+                        "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"\u001b[7m60\u001b[27mpx\"\u001b[39m\nReceived: \u001b[31m\"\u001b[7m32\u001b[27mpx\"\u001b[39m",
+                        "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"\u001b[7m60\u001b[27mpx\"\u001b[39m\nReceived: \u001b[31m\"\u001b[7m32\u001b[27mpx\"\u001b[39m\n    at C:\\Users\\ASUS\\Desktop\\javascript\\s3-restoran\\tests\\main.spec.js:110:28",
                         "location": {
-                          "file": "eval at evaluate (:291:30), <anonymous>",
-                          "column": 7,
-                          "line": 1
-                        }
+                          "file": "C:\\Users\\ASUS\\Desktop\\javascript\\s3-restoran\\tests\\main.spec.js",
+                          "column": 28,
+                          "line": 110
+                        },
+                        "snippet": "\u001b[0m \u001b[90m 108 |\u001b[39m     \u001b[36mconst\u001b[39m h1 \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39m$(\u001b[32m\"h1\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 109 |\u001b[39m     \u001b[36mconst\u001b[39m style \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mevaluate((el) \u001b[33m=>\u001b[39m getComputedStyle(el)\u001b[33m,\u001b[39m h1)\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 110 |\u001b[39m     expect(style\u001b[33m.\u001b[39mfontSize)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"60px\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m     |\u001b[39m                            \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 111 |\u001b[39m     expect(style\u001b[33m.\u001b[39mtextAlign)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"center\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 112 |\u001b[39m   })\u001b[33m;\u001b[39m\n \u001b[90m 113 |\u001b[39m\u001b[0m"
                       },
                       "errors": [
                         {
                           "location": {
-                            "file": "eval at evaluate (:291:30), <anonymous>",
-                            "column": 7,
-                            "line": 1
+                            "file": "C:\\Users\\ASUS\\Desktop\\javascript\\s3-restoran\\tests\\main.spec.js",
+                            "column": 28,
+                            "line": 110
                           },
-                          "message": "Error: page.evaluate: TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'.\n\u001b[2m    at eval (eval at evaluate (:291:30), <anonymous>:1:7)\u001b[22m\n\u001b[2m    at UtilityScript.evaluate (<anonymous>:293:16)\u001b[22m\n\u001b[2m    at UtilityScript.<anonymous> (<anonymous>:1:44)\u001b[22m\n\u001b[2m    at eval (eval at evaluate (:291:30), <anonymous>:1:7)\u001b[22m\n\u001b[2m    at UtilityScript.evaluate (<anonymous>:293:16)\u001b[22m\n\u001b[2m    at UtilityScript.<anonymous> (<anonymous>:1:44)\u001b[22m\n\u001b[2m    at C:\\Users\\ASUS\\Desktop\\javascript\\s3-restoran\\tests\\main.spec.js:109:30\u001b[22m"
+                          "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"\u001b[7m60\u001b[27mpx\"\u001b[39m\nReceived: \u001b[31m\"\u001b[7m32\u001b[27mpx\"\u001b[39m\n\n\u001b[0m \u001b[90m 108 |\u001b[39m     \u001b[36mconst\u001b[39m h1 \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39m$(\u001b[32m\"h1\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 109 |\u001b[39m     \u001b[36mconst\u001b[39m style \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mevaluate((el) \u001b[33m=>\u001b[39m getComputedStyle(el)\u001b[33m,\u001b[39m h1)\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 110 |\u001b[39m     expect(style\u001b[33m.\u001b[39mfontSize)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"60px\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m     |\u001b[39m                            \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 111 |\u001b[39m     expect(style\u001b[33m.\u001b[39mtextAlign)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"center\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 112 |\u001b[39m   })\u001b[33m;\u001b[39m\n \u001b[90m 113 |\u001b[39m\u001b[0m\n\u001b[2m    at C:\\Users\\ASUS\\Desktop\\javascript\\s3-restoran\\tests\\main.spec.js:110:28\u001b[22m"
                         }
                       ],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T12:22:47.139Z",
+                      "startTime": "2025-07-14T12:28:58.528Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -699,9 +670,9 @@
                         }
                       ],
                       "errorLocation": {
-                        "file": "eval at evaluate (:291:30), <anonymous>",
-                        "column": 7,
-                        "line": 1
+                        "file": "C:\\Users\\ASUS\\Desktop\\javascript\\s3-restoran\\tests\\main.spec.js",
+                        "column": 28,
+                        "line": 110
                       }
                     }
                   ],
@@ -726,10 +697,10 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 8,
+                      "workerIndex": 7,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 38,
+                      "duration": 32,
                       "error": {
                         "message": "Error: page.evaluate: TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'.\n    at eval (eval at evaluate (:291:30), <anonymous>:1:7)\n    at UtilityScript.evaluate (<anonymous>:293:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)",
                         "stack": "Error: page.evaluate: TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'.\n    at eval (eval at evaluate (:291:30), <anonymous>:1:7)\n    at UtilityScript.evaluate (<anonymous>:293:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)\n    at eval (eval at evaluate (:291:30), <anonymous>:1:7)\n    at UtilityScript.evaluate (<anonymous>:293:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)\n    at C:\\Users\\ASUS\\Desktop\\javascript\\s3-restoran\\tests\\main.spec.js:116:30",
@@ -752,7 +723,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T12:22:48.476Z",
+                      "startTime": "2025-07-14T12:28:59.764Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -789,7 +760,7 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 9,
+                      "workerIndex": 8,
                       "parallelIndex": 0,
                       "status": "failed",
                       "duration": 32,
@@ -815,7 +786,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T12:22:49.897Z",
+                      "startTime": "2025-07-14T12:29:01.016Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -852,7 +823,7 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 10,
+                      "workerIndex": 9,
                       "parallelIndex": 0,
                       "status": "failed",
                       "duration": 32,
@@ -878,7 +849,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T12:22:51.141Z",
+                      "startTime": "2025-07-14T12:29:02.319Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -915,10 +886,10 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 11,
+                      "workerIndex": 10,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 34,
+                      "duration": 31,
                       "error": {
                         "message": "Error: page.evaluate: TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'.\n    at eval (eval at evaluate (:291:30), <anonymous>:1:7)\n    at UtilityScript.evaluate (<anonymous>:293:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)",
                         "stack": "Error: page.evaluate: TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'.\n    at eval (eval at evaluate (:291:30), <anonymous>:1:7)\n    at UtilityScript.evaluate (<anonymous>:293:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)\n    at eval (eval at evaluate (:291:30), <anonymous>:1:7)\n    at UtilityScript.evaluate (<anonymous>:293:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)\n    at C:\\Users\\ASUS\\Desktop\\javascript\\s3-restoran\\tests\\main.spec.js:141:30",
@@ -941,7 +912,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T12:22:52.393Z",
+                      "startTime": "2025-07-14T12:29:03.519Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -978,10 +949,10 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 12,
+                      "workerIndex": 11,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 67,
+                      "duration": 73,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"\u001b[7m750\u001b[27mpx\"\u001b[39m\nReceived: \u001b[31m\"\u001b[7m1264\u001b[27mpx\"\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"\u001b[7m750\u001b[27mpx\"\u001b[39m\nReceived: \u001b[31m\"\u001b[7m1264\u001b[27mpx\"\u001b[39m\n    at C:\\Users\\ASUS\\Desktop\\javascript\\s3-restoran\\tests\\main.spec.js:150:25",
@@ -1005,7 +976,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T12:22:53.617Z",
+                      "startTime": "2025-07-14T12:29:04.751Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -1036,11 +1007,11 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2025-07-14T12:22:36.160Z",
-    "duration": 18366.251,
-    "expected": 4,
+    "startTime": "2025-07-14T12:28:49.374Z",
+    "duration": 16330.491999999998,
+    "expected": 5,
     "skipped": 0,
-    "unexpected": 13,
+    "unexpected": 12,
     "flaky": 0
   }
 }
