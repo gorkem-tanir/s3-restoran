@@ -10,6 +10,10 @@ body {
 
 
 /* h1 için yazı karakteri büyüklüğünü 60px yapın ve yazıyı ortalayın */
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
 
 
 /*
