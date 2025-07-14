@@ -49,6 +49,11 @@ p {
 
 /* banner classına sahip elemanların kenarlarını 10px yuvarlatın ve genişliğini 750px yapın */
 
+.banner {
+  border-radius: 10px;
+  width: 750px;
+}
+
 /* 
   iletişim bölümündeki bilgiler için sıralı olmayan bir liste oluşturdun. Şimdi ona şu stilleri uygulayın:
     - üst alt dış boşluğu 0px, sol sağ dış boşluğu 10px olsun
