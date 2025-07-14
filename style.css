@@ -3,6 +3,10 @@ html {
 }
 
 /* body elemanının arkaplan rengini #e79947, margin değerini 0 yapın. */
+body {
+  background-color: #e79947;
+  margin: 0;
+}
 
 
 /* h1 için yazı karakteri büyüklüğünü 60px yapın ve yazıyı ortalayın */
