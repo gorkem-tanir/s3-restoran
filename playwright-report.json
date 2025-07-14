@@ -82,12 +82,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 44,
+                      "duration": 43,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T13:47:36.248Z",
+                      "startTime": "2025-07-14T13:49:44.748Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -116,12 +116,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 13,
+                      "duration": 14,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T13:47:37.138Z",
+                      "startTime": "2025-07-14T13:49:45.634Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -150,12 +150,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 5,
+                      "duration": 4,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T13:47:37.154Z",
+                      "startTime": "2025-07-14T13:49:45.650Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -184,12 +184,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 8,
+                      "duration": 9,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T13:47:37.161Z",
+                      "startTime": "2025-07-14T13:49:45.657Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -223,7 +223,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T13:47:37.172Z",
+                      "startTime": "2025-07-14T13:49:45.669Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -252,12 +252,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 7,
+                      "duration": 8,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T13:47:37.193Z",
+                      "startTime": "2025-07-14T13:49:45.689Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -286,12 +286,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 11,
+                      "duration": 13,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T13:47:37.203Z",
+                      "startTime": "2025-07-14T13:49:45.699Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -325,7 +325,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T13:47:37.217Z",
+                      "startTime": "2025-07-14T13:49:45.714Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -359,7 +359,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T13:47:37.230Z",
+                      "startTime": "2025-07-14T13:49:45.727Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -388,12 +388,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 5,
+                      "duration": 7,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T13:47:37.259Z",
+                      "startTime": "2025-07-14T13:49:45.756Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -427,7 +427,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T13:47:37.266Z",
+                      "startTime": "2025-07-14T13:49:45.764Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -456,12 +456,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 21,
+                      "duration": 22,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T13:47:37.294Z",
+                      "startTime": "2025-07-14T13:49:45.791Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -490,12 +490,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 19,
+                      "duration": 18,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T13:47:37.317Z",
+                      "startTime": "2025-07-14T13:49:45.816Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -524,12 +524,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 20,
+                      "duration": 19,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T13:47:37.337Z",
+                      "startTime": "2025-07-14T13:49:45.836Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -558,12 +558,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 20,
+                      "duration": 21,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T13:47:37.361Z",
+                      "startTime": "2025-07-14T13:49:45.858Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -592,12 +592,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 24,
+                      "duration": 20,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T13:47:37.383Z",
+                      "startTime": "2025-07-14T13:49:45.881Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -612,7 +612,7 @@
             },
             {
               "title": ".container stil: width, margin, background-color, padding",
-              "ok": false,
+              "ok": true,
               "tags": [],
               "tests": [
                 {
@@ -625,48 +625,18 @@
                     {
                       "workerIndex": 0,
                       "parallelIndex": 0,
-                      "status": "failed",
-                      "duration": 19,
-                      "error": {
-                        "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"\u001b[7m75\u001b[27m0px\"\u001b[39m\nReceived: \u001b[31m\"\u001b[7m128\u001b[27m0px\"\u001b[39m",
-                        "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"\u001b[7m75\u001b[27m0px\"\u001b[39m\nReceived: \u001b[31m\"\u001b[7m128\u001b[27m0px\"\u001b[39m\n    at C:\\Users\\ASUS\\Desktop\\javascript\\s3-restoran\\tests\\main.spec.js:150:25",
-                        "location": {
-                          "file": "C:\\Users\\ASUS\\Desktop\\javascript\\s3-restoran\\tests\\main.spec.js",
-                          "column": 25,
-                          "line": 150
-                        },
-                        "snippet": "\u001b[0m \u001b[90m 148 |\u001b[39m     \u001b[36mconst\u001b[39m container \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39m$(\u001b[32m\".container\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 149 |\u001b[39m     \u001b[36mconst\u001b[39m style \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mevaluate((el) \u001b[33m=>\u001b[39m getComputedStyle(el)\u001b[33m,\u001b[39m container)\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 150 |\u001b[39m     expect(style\u001b[33m.\u001b[39mwidth)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"750px\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m     |\u001b[39m                         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 151 |\u001b[39m     expect(style\u001b[33m.\u001b[39mbackgroundColor)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"rgb(255, 255, 255)\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 152 |\u001b[39m     expect(style\u001b[33m.\u001b[39mpadding)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"50px\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 153 |\u001b[39m   })\u001b[33m;\u001b[39m\u001b[0m"
-                      },
-                      "errors": [
-                        {
-                          "location": {
-                            "file": "C:\\Users\\ASUS\\Desktop\\javascript\\s3-restoran\\tests\\main.spec.js",
-                            "column": 25,
-                            "line": 150
-                          },
-                          "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"\u001b[7m75\u001b[27m0px\"\u001b[39m\nReceived: \u001b[31m\"\u001b[7m128\u001b[27m0px\"\u001b[39m\n\n\u001b[0m \u001b[90m 148 |\u001b[39m     \u001b[36mconst\u001b[39m container \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39m$(\u001b[32m\".container\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 149 |\u001b[39m     \u001b[36mconst\u001b[39m style \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mevaluate((el) \u001b[33m=>\u001b[39m getComputedStyle(el)\u001b[33m,\u001b[39m container)\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 150 |\u001b[39m     expect(style\u001b[33m.\u001b[39mwidth)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"750px\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m     |\u001b[39m                         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 151 |\u001b[39m     expect(style\u001b[33m.\u001b[39mbackgroundColor)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"rgb(255, 255, 255)\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 152 |\u001b[39m     expect(style\u001b[33m.\u001b[39mpadding)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"50px\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 153 |\u001b[39m   })\u001b[33m;\u001b[39m\u001b[0m\n\u001b[2m    at C:\\Users\\ASUS\\Desktop\\javascript\\s3-restoran\\tests\\main.spec.js:150:25\u001b[22m"
-                        }
-                      ],
+                      "status": "passed",
+                      "duration": 17,
+                      "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T13:47:37.410Z",
+                      "startTime": "2025-07-14T13:49:45.904Z",
                       "annotations": [],
-                      "attachments": [
-                        {
-                          "name": "error-context",
-                          "contentType": "text/markdown",
-                          "path": "C:\\Users\\ASUS\\Desktop\\javascript\\s3-restoran\\.test-results\\tests-main-HTML-ve-CSS-Gör-8eebd-in-background-color-padding\\error-context.md"
-                        }
-                      ],
-                      "errorLocation": {
-                        "file": "C:\\Users\\ASUS\\Desktop\\javascript\\s3-restoran\\tests\\main.spec.js",
-                        "column": 25,
-                        "line": 150
-                      }
+                      "attachments": []
                     }
                   ],
-                  "status": "unexpected"
+                  "status": "expected"
                 }
               ],
               "id": "45e6f71b65db145e0a88-a0ff4e4a42937c324147",
@@ -681,11 +651,11 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2025-07-14T13:47:35.377Z",
-    "duration": 2668.241,
-    "expected": 16,
+    "startTime": "2025-07-14T13:49:43.876Z",
+    "duration": 2613.126,
+    "expected": 17,
     "skipped": 0,
-    "unexpected": 1,
+    "unexpected": 0,
     "flaky": 0
   }
 }

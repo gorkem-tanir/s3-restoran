@@ -76,4 +76,8 @@ ul {
     - arkaplan rengi beyaz
     - padding değeri 50px olsun
   */
+  width: 750px;
+  margin: 60px auto 30px;
+  background-color: white;
+  padding: 50px;
 }
